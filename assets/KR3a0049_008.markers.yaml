@@ -7,6 +7,7 @@ markers:
 
       ', id: KR3a0049_krp_008-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3a0049_WYG_008-1a01}
+  - {type: substitution, offset: 0, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR3a0049_krp_008-bkkkrnewl2}
@@ -23,16 +24,20 @@ markers:
 
       ', id: KR3a0049_krp_008-bkkkrnewl5}
   - {type: line-break, offset: 64, content: '', id: KR3a0049_WYG_008-1a05}
+  - {type: substitution, offset: 66, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
+  - {type: substitution, offset: 79, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 85, content: '
 
       ', id: KR3a0049_krp_008-bkkkrnewl6}
   - {type: line-break, offset: 85, content: '', id: KR3a0049_WYG_008-1a06}
+  - {type: substitution, offset: 97, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19580}}
   - {type: 'kr:newline', offset: 106, content: '
 
       ', id: KR3a0049_krp_008-bkkkrnewl7}
   - {type: line-break, offset: 106, content: '', id: KR3a0049_WYG_008-1a07}
+  - {type: substitution, offset: 110, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20703}}
   - {type: 'kr:newline', offset: 121, content: '
 
       ', id: KR3a0049_krp_008-bkkkrnewl8}
   back: []
-hash: sha256:6c30fd9060876b80cfe3d8d977951bca7c58fbfac90f525b8220f23cb86142ba
+hash: sha256:ef5cdd43c1446fa7b3bce66f8043b0a99abe5efbb33a9b01110e3fdf9c74a211

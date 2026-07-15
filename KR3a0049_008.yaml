@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 䟦孟子以知詖淫邪遁為知言胡子之書以是名者所以辨異端之言與吾聖人異也楊墨之害不熄孔子之道不著故知言一書於諸子百家之邪説辭而闢之極其詳焉盖以繼孟子也學者誠能深味其㫖則於吾道之正且大異端之偏而小若辨白黒若數一二矣蕭君定夫以其所蔵真藁示余敬拜而書其後
-  hash: sha256:069b8c23616d58dcd3330d7f8df30ce9a08205f6218c34d32a62b32f8ccfe8ec
+  text: 跋孟子以知詖淫邪遁為知言胡子之書以是名者所以辨異端之言與吾聖人異也楊墨之害不熄孔子之道不著故知言一書於諸子百家之邪説辭而闢之極其詳焉蓋以繼孟子也學者誠能深味其旨則於吾道之正且大異端之偏而小若辨白黑若數一二矣蕭君定夫以其所藏真藁示余敬拜而書其後
+  hash: sha256:36b5f24b21dff427591364f0d1e35d2f6dd44a02a865fdb677e5745157867aa1
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3a0049_WYG_008-1a, image: WYG0703/WYG0703-0158c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3a0049/KR3a0049_008.txt
-hash: sha256:6a077293abee78079d577e7e0b870881f793da0de34f3dd7e14f90b11630a5c7
+hash: sha256:26063c3471fe0d7e5362b326d663cd48d35390d9c1defe953de5bfc8b2acb6af
